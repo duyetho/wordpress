@@ -465,3 +465,8 @@ body:not(.home) #masthead{
 		background-color:green;
     }
 }
+
+/* ----------------css header---------------- */
+.header{
+    background-color: rgb(18, 93, 184);
+}

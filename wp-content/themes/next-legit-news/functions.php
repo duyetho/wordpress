@@ -25,3 +25,4 @@ require get_theme_file_path() . '/inc/customizer.php';
 require get_theme_file_path() . '/inc/front-sections/main-post.php';
 require get_theme_file_path() . '/inc/front-sections/media-posts.php';
 require get_theme_file_path() . '/inc/front-sections/hero-post.php';
+// --------------------post ---------------
